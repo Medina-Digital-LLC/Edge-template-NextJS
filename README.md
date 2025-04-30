@@ -1,0 +1,1 @@
+# Edge-template-NextJS
