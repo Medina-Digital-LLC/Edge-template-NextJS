@@ -188,7 +188,7 @@ export default function Home() {
             <div className="flex items-center gap-2">
               <Sparkles className="h-6 w-6 text-purple-500" />
               <span className="text-xl font-bold tracking-tight bg-clip-text text-transparent bg-gradient-to-r from-purple-500 to-cyan-400">
-                NEURALUX
+                EDGE
               </span>
             </div>
 
@@ -371,7 +371,7 @@ export default function Home() {
               transition={{ duration: 0.8 }}
               viewport={{ once: true }}
             >
-              <h2 className="text-3xl md:text-4xl font-bold mb-6">Why Choose NEURALUX</h2>
+              <h2 className="text-3xl md:text-4xl font-bold mb-6">Why Choose EDGE</h2>
               <p className="text-xl text-gray-300 mb-8">
                 We combine deep technical expertise with strategic business thinking to deliver AI solutions that create
                 real value.
@@ -541,8 +541,8 @@ export default function Home() {
                   <div className="bg-purple-500/20 p-3 rounded-full">
                     <Mail className="h-5 w-5 text-purple-400" />
                   </div>
-                  <a href="mailto:info@neuralux.ai" className="text-gray-300 hover:text-purple-400 transition-colors">
-                    info@neuralux.ai
+                  <a href="mailto:info@EDGE.ai" className="text-gray-300 hover:text-purple-400 transition-colors">
+                    info@EDGE.ai
                   </a>
                 </div>
 
@@ -683,7 +683,7 @@ export default function Home() {
               <div className="flex items-center gap-2 mb-4">
                 <Sparkles className="h-5 w-5 text-purple-500" />
                 <span className="text-lg font-bold tracking-tight bg-clip-text text-transparent bg-gradient-to-r from-purple-500 to-cyan-400">
-                  NEURALUX
+                  EDGE
                 </span>
               </div>
               <p className="text-gray-400 mb-6">
@@ -769,8 +769,8 @@ export default function Home() {
               <ul className="space-y-3">
                 <li className="text-gray-400">
                   <Mail className="h-4 w-4 inline-block mr-2" />
-                  <a href="mailto:info@neuralux.ai" className="hover:text-purple-400 transition-colors">
-                    info@neuralux.ai
+                  <a href="mailto:info@EDGE.ai" className="hover:text-purple-400 transition-colors">
+                    info@EDGE.ai
                   </a>
                 </li>
                 <li className="text-gray-400">
@@ -790,7 +790,7 @@ export default function Home() {
           </div>
 
           <div className="mt-12 pt-8 border-t border-white/10 text-center text-gray-500 text-sm">
-            <p>© {new Date().getFullYear()} NEURALUX. All rights reserved.</p>
+            <p>© {new Date().getFullYear()} EDGE. All rights reserved.</p>
           </div>
         </div>
       </footer>
